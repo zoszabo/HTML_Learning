@@ -19,11 +19,11 @@ section {
 
 aside {
    width: 45px;
-   height: 90px;
-   position: fixed;
-   left: 0px;
-   top: 200px;
-   border: 1px solid black;
+  height: 90px;
+  position: fixed;
+  left: 0px;
+  top: 200px;
+  border: 1px solid black;
 }
 
 table {
@@ -72,9 +72,9 @@ thead
 .highlight
 {
   background: #0186BA;
-  -o-transition: all 0.1s ease-in-out;
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
   -ms-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;     
 } 

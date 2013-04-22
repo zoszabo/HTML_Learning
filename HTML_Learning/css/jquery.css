@@ -1,0 +1,82 @@
+@charset 'UTF-8';
+#draggable {
+  float: left; 
+  padding: 0.5em;
+  width: 150px; 
+  height: 150px;
+  float: left;
+  margin: 10px 10px 10px 0;
+}
+
+#draggable_scroll, #draggable_scroll2, #draggable_scroll3 { 
+  float: left; 
+  margin: 0 10px 10px 0; 
+  padding: 0.5em;
+  width: 100px; 
+  height: 100px;  
+}
+
+.draggable { 
+  float: left; 
+  margin: 0 10px 10px 0; 
+  padding: 0.5em; 
+  width: 120px; 
+  height: 120px;
+}
+
+#draggable_vertical, #draggable_horizontal { 
+  margin-bottom:20px; 
+}
+
+#draggable_vertical { cursor: n-resize; }
+#draggable_horizontal { cursor: e-resize; }
+#draggable_within_parent 
+}
+
+#containment-wrapper { 
+  padding: 10px; 
+  width: 95%; 
+  height:250px; 
+  border:2px solid #ccc; 
+}
+
+/*DROPPABLE*/
+#droppable { 
+  width: 250px; 
+  height: 250px; 
+  padding: 0.5em; 
+  float: left; 
+  margin: 10px;
+}
+
+/*RESIZABLE*/
+#resizable { 
+  width: 150px; 
+  height: 150px; 
+  padding: 0.5em; 
+}
+#resizable h3 { 
+  text-align: center; 
+  margin: 0; 
+}
+
+/*SELECTABLE*/
+#feedback { font-size: 1.4em; }
+#selectable .ui-selecting { background: #FECA40; }
+#selectable .ui-selected { background: #F39814; color: white; }
+#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+/*SORTABLE*/
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+#sortable li span { position: absolute; margin-left: -1.3em; }
+
+
+h3 {
+  clear: both;
+}
+
+footer {
+  clear: both;
+}

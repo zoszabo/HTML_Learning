@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/chrome-web.sublime-build",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"cmd\": [\"open\", \"-a\", \"/Applications/Firefox.app/Contents/MacOS/firefox\", \"http://localhost/${file}\"]\n}\n",
+			"file": "/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/firefox-web.sublime-build",
+			"file_size": 90,
+			"file_write_time": 1366012253000000,
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/chrome-web.sublime-build",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 505.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/html_tags.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/HTML_Learning.sublime-workspace",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/html5_template.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/html5.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/dropmenu.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/animated_dropmenu.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/HTML_Learning.sublime-project",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/safari-web.sublime-build",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/firefox-web.sublime-build",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/index.html",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/chrome-web.sublime-build",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/Restart/Restart.sublime-settings",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/zoli_szabo/git/css/html5.css",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/html5.css",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/animated_dropmenu.css",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/dropmenu.css",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/table.css",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/html_tags.css",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/View In Browser.sublime-settings",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/css/html5_template.css",
+		"/Users/zoli_szabo/Work/GIT/HTML_Leraning/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/zoli_szabo/Documents/HTML/css/styles.css",
+		"/Volumes/1TB Backup/Downloads/Completed/Video2Brain. Introducing PHP/Project_Files/01_Setting_Up_a_PHP_Development_Environment/config.php",
+		"/Users/zoli_szabo/Documents/HTML/index.html",
+		"/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/zoli_szabo/Documents/HTML/try.html",
+		"/Users/zoli_szabo/Documents/HTML/Jegyzőkönyv kiegészítés.doc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+alt+v",
+			"browser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/chrome-web.sublime-build",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/zoli_szabo/Library/Application Support/Sublime Text 2/Packages/User/firefox-web.sublime-build",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 241.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
